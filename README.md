@@ -6,4 +6,5 @@ Exercícios relacionados a 3ª Imersão de Dados do Alura.| Python | Pandas | Ge
 `#imersaodados` `#alura`
 
 Aula 01 - OK
+
 Aula 02 - OK
